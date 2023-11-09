@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello! I'm Andrew, a IT/security enthusiast. I have a strong interest in Cybersecurity, Cloud Security, Application Security
+📚✏️ Currently learning SQL, and wanting to learn more!
+📫 Reach me at andrew.j.singleton@proton.me
 
-<!--
-**andrewsingleton2/andrewsingleton2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Programming Languages:** SQL
+- **Tools & Technologies:** SIEM, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- CompTIA Security+
+- Microsoft Azure: Azure Fundamentals
+
+## Contact Me
+
+- [Email](mailto:andrew.j.singleton@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/andrewsingleton2/)
