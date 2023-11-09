@@ -1,10 +1,10 @@
 ## Hello! I'm Andrew 👋 
 - 💻 An IT/security enthusiast. I have a strong interest in Cybersecurity, Cloud Security, Application Security
-- 📚✏️ Currently learning SQL, and wanting to learn more!
+- 📚✏️ Currently learning SQL, and aiming to learn Python and C++!
 - 📫 Reach me at andrew.j.singleton@proton.me
 
 Skills:
-- **Programming Languages:** SQL
+- **Programming Languages:** SQL (Novice)
 - **Tools & Technologies:** SIEM, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
 
 Certifications:
