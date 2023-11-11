@@ -1,5 +1,5 @@
 ## Hello! I'm Andrew 👋 
-- 💻 An IT/security enthusiast. I have a strong interest in Cybersecurity, Cloud Security, Application Security
+- 💻 An IT/security enthusiast. I have a strong interest in Cybersecurity and Cloud Security.
 - 📚✏️ Currently learning SQL, and aiming to learn Python Automation!
 - 📫 Reach me at andrew.j.singleton@proton.me
 
