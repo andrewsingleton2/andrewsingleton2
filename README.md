@@ -5,7 +5,7 @@
 
 🐱‍👤 Skills:
 - **Programming Languages:** SQL (Novice)
-- **Tools & Technologies:** SIEM, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
+- **Tools & Technologies:** Active Directory, Nessus, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
 
 📜 Certifications:
 - CompTIA Security+
