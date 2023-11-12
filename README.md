@@ -14,3 +14,5 @@ Certifications:
 Contact Me!
 - [Email](mailto:andrew.j.singleton@proton.me)
 - [LinkedIn](https://www.linkedin.com/in/andrewsingleton2/)
+
+# 🠋 View my projects below! 🠋
