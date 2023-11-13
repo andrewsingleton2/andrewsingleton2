@@ -1,5 +1,5 @@
 # Hello! I'm Drew 👋 
-- 💻 An IT/security enthusiast. I have a strong interest in Cybersecurity and Cloud Security.
+- 💻 An IT/security enthusiast. I have a strong interest in Detection Security, Network Security, Cloud Security, and Automation Security.
 - 📚✏️ Currently learning SQL, and aiming to learn Python Automation!
 - 📩 Reach me at andrew.j.singleton@proton.me
 
