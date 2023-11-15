@@ -3,7 +3,7 @@
 - 📚✏️ Currently learning SQL, and aiming to learn Python Automation!
 - 📩 Reach me at andrew.j.singleton@proton.me
 
-🐱‍👤 Skills:
+😎 Skills:
 - **Programming Languages:** SQL
 - **Tools & Technologies:** Active Directory, Nessus, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
 
