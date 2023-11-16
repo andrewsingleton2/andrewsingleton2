@@ -9,7 +9,7 @@
 
 📜 Certifications:
 - CompTIA Security+
-- Microsoft Azure: Azure Fundamentals
+- Microsoft Certified: Azure Fundamentals
 
 📪 Contact Me!
 - [Email](mailto:andrew.j.singleton@proton.me)
