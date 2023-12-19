@@ -1,18 +1,18 @@
-# Hello! I'm Drew 👋 
-- 💻 An IT/security enthusiast. I have a strong interest in Detection Security, Network Security, Cloud Security, and Automation Security.
-- 📚✏️ Currently learning SQL, and aiming to learn Python Automation!
-- 📩 Reach me at andrew.j.singleton@proton.me
+<h1>Hi, I'm Josh! <br/><a Help Desk Specialist</a>, <a Cybersecurity Enthusiast</a>
 
-😎 Skills:
-- **Programming Languages:** SQL
-- **Tools & Technologies:** Nessus, Active Directory, Azure Sentinel, Nmap, VM, tcpdump, Wireshark, Windows Firewall, iptables, Microsoft Azure
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-📜 Certifications:
-- CompTIA Security+
-- Microsoft Certified: Azure Fundamentals
+- <b>Vulnerability Management</b>
+  - [Nessus Credentialed Scan](https://github.com/andrewsingleton2/Vulnerability-Management)
+- <b>PowerShell & Active Directory</b>
+  - [Active Directory Bulk User Creation](https://github.com/andrewsingleton2/Building-An-Active-Directory)
+- <b>SIEM</b>
+  - [Azure Sentinel](https://github.com/andrewsingleton2/SIEM-Azure-Sentinel)
+- <b>Digital Forensics</b>
+  - [Drug Trafficking Case](https://github.com/andrewsingleton2/Digital-Forensics) <b><i>(Potentially NSFW)</b></i>
 
-📪 Contact Me!
-- [Email](mailto:andrew.j.singleton@proton.me)
-- [LinkedIn](https://www.linkedin.com/in/andrewsingleton2/)
+<h2> 🤳 Connect with me:</h2>
 
-## 🠋 View my projects below! 🠋
+[<img align="left" alt="Andrew Singleton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/andrewsingleton2/
