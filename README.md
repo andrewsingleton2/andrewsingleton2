@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drew! <br/>Help Desk Specialist, Cybersecurity Enthusiast
+<h1>Hi, I'm Drew! 👋
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
