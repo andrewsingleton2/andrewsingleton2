@@ -15,7 +15,7 @@
 
 <h2>🥇 Program/Scripting Language(s):</h2>
 
-- <b>[SQL](https://github.com/andrewsingleton2/My-SQL-Portfolio))</b>
+- <b>[SQL](https://github.com/andrewsingleton2/My-SQL-Portfolio)</b>
 
 <h2>🥇 Certifications:</h2>
 
