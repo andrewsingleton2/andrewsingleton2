@@ -1,6 +1,6 @@
 <h1>Hi, I'm Drew! 👋
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
   - [Nessus Credentialed Scan](https://github.com/andrewsingleton2/Vulnerability-Management)
@@ -12,6 +12,10 @@
   - [Azure Sentinel](https://github.com/andrewsingleton2/SIEM-Azure-Sentinel)
 - <b>Digital Forensics</b>
   - [Drug Trafficking Case](https://github.com/andrewsingleton2/Digital-Forensics) <b><i>(Potentially NSFW)</b></i>
+
+<h2>🥇 Program/Scripting Language(s):</h2>
+
+- <b>[SQL](https://github.com/andrewsingleton2/My-SQL-Portfolio))</b>
 
 <h2>🥇 Certifications:</h2>
 
