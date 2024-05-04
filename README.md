@@ -13,7 +13,7 @@
 - <b>Digital Forensics</b>
   - [Drug Trafficking Case](https://github.com/andrewsingleton2/Digital-Forensics)
 
-<h2>🥇 Program/Scripting Language(s):</h2>
+<h2>⌨️ Program/Scripting Language(s):</h2>
 
 - <b>[SQL](https://github.com/andrewsingleton2/My-SQL-Portfolio)</b>
 
