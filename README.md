@@ -11,7 +11,7 @@
 - <b>SIEM</b>
   - [Azure Sentinel](https://github.com/andrewsingleton2/SIEM-Azure-Sentinel)
 - <b>Digital Forensics</b>
-  - [Drug Trafficking Case](https://github.com/andrewsingleton2/Digital-Forensics)
+  - [Drug Trafficking Case & Chain of Custody](https://github.com/andrewsingleton2/Digital-Forensics)
 
 <h2>⌨️ Program/Scripting Language(s):</h2>
 
