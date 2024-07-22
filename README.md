@@ -21,9 +21,9 @@
 
 - <b>[CompTIA Security+](https://www.credly.com/earner/earned/badge/0743cc5b-7c1e-47d2-8eb8-f3588b5a3b0e)</b>
 
-- <b>[Microsoft Az-900]([https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/](https://learn.microsoft.com/en-us/users/andrew-3344/credentials/4eb7570cfc8eaed9?ref=https%3A%2F%2Fwww.linkedin.com%2F))</b>
+- <b>[Microsoft AZ-900]([https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/](https://learn.microsoft.com/en-us/users/andrew-3344/credentials/4eb7570cfc8eaed9?ref=https%3A%2F%2Fwww.linkedin.com%2F)</b>
 
-- <b>[Microsoft Sc-900]([https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/](https://learn.microsoft.com/en-us/users/andrew-3344/credentials/97eea86834c4ff8?ref=https%3A%2F%2Fwww.linkedin.com%2F))</b>
+- <b>[Microsoft SC-900]([https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/](https://learn.microsoft.com/en-us/users/andrew-3344/credentials/97eea86834c4ff8?ref=https%3A%2F%2Fwww.linkedin.com%2F)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
